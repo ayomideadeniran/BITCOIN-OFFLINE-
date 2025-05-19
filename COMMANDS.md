@@ -34,3 +34,4 @@ bitcoin-cli -regtest stop
 
 bitcoin-cli -reg
 bitcoind -regtest -daemon
+

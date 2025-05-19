@@ -118,7 +118,7 @@ The backend is designed to integrate with a React frontend found here:
 
 ## 🧑‍💻 Author
 
-Built by [@yourgithubusername](https://github.com/yourgithubusername)
+Built by [@ayomideadeniran](https://github.com/ayomideadeniran)
 
 ---
 
